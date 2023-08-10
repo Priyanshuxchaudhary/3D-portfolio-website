@@ -19,6 +19,7 @@ import {
   java,
   cpp,
   android,
+  brickbreaker,
 } from "../assets";
 
 export const navLinks = [
@@ -214,7 +215,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: tripguide,
+    image: brickbreaker,
     source_code_link: "https://github.com/Priyanshuxchaudhary/SimpleBrickBreakerGame",
   },
 ];
